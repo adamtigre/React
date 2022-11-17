@@ -83,6 +83,7 @@ To have a more detailed overview of the guidelines, please read [this document](
 | 2.   | API calls, Testing                                      | [Readings W2](./week2/README.md) | [Homework W2](./week2/MAKEME.md) |
 | 3.   | Client-side routing, Context, Custom hooks              | [Readings W3](./week3/README.md) | [Homework W3](./week3/MAKEME.md) |
 | 4.   | Project!                                                | [Readings W4](./week4/README.md) |                                  |
+| 5.   | Presentation and winner announcement                    | [Readings W4](./week4/README.md) |                                  |
 
 ## Finished?
 
